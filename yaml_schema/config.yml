@@ -1,0 +1,6 @@
+- device:
+  name: Chroma Supply
+  id: supply_1
+  type: visa
+  address: 'FOO_DEVICE'
+  
